@@ -1,0 +1,36 @@
+{
+  "name": "pre-parcial-02a-an-pv-ct-as-duck-hunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECO232/pre-parcial-02a-an-pv-ct-as-duck-hunt.git"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "data",
+    "broadcast"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ECO232/pre-parcial-02a-an-pv-ct-as-duck-hunt/issues"
+  },
+  "homepage": "https://github.com/ECO232/pre-parcial-02a-an-pv-ct-as-duck-hunt#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node": "^17.5.0",
+    "serialport": "^12.0.0",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "description": ""
+}
